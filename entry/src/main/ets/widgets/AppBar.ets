@@ -15,7 +15,7 @@ export struct AppBar {
         .width('100%')
         .fontSize(20)
         .fontColor($r('app.color.text_black'))
-        .padding({ left: 50, right: 40, top: 12, bottom: 12 })
+        .padding({ left: 50, right: 50, top: 30, bottom: 30 })
         .maxLines(1)
         .textOverflow({ overflow: TextOverflow.Ellipsis })
         .textAlign(TextAlign.Center)
