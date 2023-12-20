@@ -1,0 +1,28 @@
+{
+  "color": [
+    {
+      "name": "white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "page_background",
+      "value": "#FEFEFE"
+    },
+    {
+      "name": "theme_color",
+      "value": "#7700FF"
+    },
+    {
+      "name": "normal_text",
+      "value": "#CECECE"
+    },
+    {
+      "name": "text_black",
+      "value": "#333333"
+    },
+    {
+      "name": "light_grey",
+      "value": "#EAEAEA"
+    }
+  ]
+}
