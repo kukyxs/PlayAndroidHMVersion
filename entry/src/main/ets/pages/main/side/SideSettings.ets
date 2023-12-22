@@ -2,7 +2,7 @@
 export struct SideSettings {
   @Link currentTab: number
   @Link sideOpen: boolean
-  private switchItems: string[] = ["首页", "项目", "体系"]
+  private switchItems: string[] = ["Android", "Music"]
 
   @Builder SwitchItem(text: string, index: number) {
     Row() {

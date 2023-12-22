@@ -23,6 +23,14 @@
     {
       "name": "light_grey",
       "value": "#EAEAEA"
+    },
+    {
+      "name": "music_bg_start",
+      "value": "#FF228156"
+    },
+    {
+      "name": "music_bg_end",
+      "value": "#FF163527"
     }
   ]
 }
